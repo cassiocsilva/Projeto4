@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.ServicoUsuarioImplTest" tests="58" skipped="0" failures="0" errors="0" timestamp="2018-11-20T13:55:30" hostname="Julia-PC" time="7.896">
+  <properties/>
+  <testcase name="CT09()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT10()" classname="model.ServicoUsuarioImplTest" time="0.001"/>
+  <testcase name="CT11()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT12()" classname="model.ServicoUsuarioImplTest" time="0.005"/>
+  <testcase name="CT13()" classname="model.ServicoUsuarioImplTest" time="0.004"/>
+  <testcase name="CT14()" classname="model.ServicoUsuarioImplTest" time="0.003"/>
+  <testcase name="CT15()" classname="model.ServicoUsuarioImplTest" time="0.005"/>
+  <testcase name="CT16()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT17()" classname="model.ServicoUsuarioImplTest" time="0.004"/>
+  <testcase name="CT18()" classname="model.ServicoUsuarioImplTest" time="0.004"/>
+  <testcase name="CT19()" classname="model.ServicoUsuarioImplTest" time="0.023"/>
+  <testcase name="CT20()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT21()" classname="model.ServicoUsuarioImplTest" time="0.04"/>
+  <testcase name="CT22()" classname="model.ServicoUsuarioImplTest" time="0.075"/>
+  <testcase name="CT23()" classname="model.ServicoUsuarioImplTest" time="0.066"/>
+  <testcase name="CT24()" classname="model.ServicoUsuarioImplTest" time="0.181"/>
+  <testcase name="CT25()" classname="model.ServicoUsuarioImplTest" time="0.0"/>
+  <testcase name="CT26()" classname="model.ServicoUsuarioImplTest" time="0.0"/>
+  <testcase name="CT27()" classname="model.ServicoUsuarioImplTest" time="0.168"/>
+  <testcase name="CT28()" classname="model.ServicoUsuarioImplTest" time="0.093"/>
+  <testcase name="CT29()" classname="model.ServicoUsuarioImplTest" time="0.093"/>
+  <testcase name="CT30()" classname="model.ServicoUsuarioImplTest" time="0.23"/>
+  <testcase name="CT31()" classname="model.ServicoUsuarioImplTest" time="0.143"/>
+  <testcase name="CT32()" classname="model.ServicoUsuarioImplTest" time="0.112"/>
+  <testcase name="CT33()" classname="model.ServicoUsuarioImplTest" time="0.257"/>
+  <testcase name="CT34()" classname="model.ServicoUsuarioImplTest" time="0.142"/>
+  <testcase name="CT35()" classname="model.ServicoUsuarioImplTest" time="0.137"/>
+  <testcase name="CT36()" classname="model.ServicoUsuarioImplTest" time="0.135"/>
+  <testcase name="CT37()" classname="model.ServicoUsuarioImplTest" time="0.291"/>
+  <testcase name="CT38()" classname="model.ServicoUsuarioImplTest" time="0.233"/>
+  <testcase name="CT39()" classname="model.ServicoUsuarioImplTest" time="0.22"/>
+  <testcase name="CT40()" classname="model.ServicoUsuarioImplTest" time="0.131"/>
+  <testcase name="CT41()" classname="model.ServicoUsuarioImplTest" time="0.0"/>
+  <testcase name="CT42()" classname="model.ServicoUsuarioImplTest" time="0.0"/>
+  <testcase name="CT43()" classname="model.ServicoUsuarioImplTest" time="0.257"/>
+  <testcase name="CT44()" classname="model.ServicoUsuarioImplTest" time="0.379"/>
+  <testcase name="CT45()" classname="model.ServicoUsuarioImplTest" time="0.369"/>
+  <testcase name="CT46()" classname="model.ServicoUsuarioImplTest" time="0.267"/>
+  <testcase name="CT47()" classname="model.ServicoUsuarioImplTest" time="0.339"/>
+  <testcase name="CT48()" classname="model.ServicoUsuarioImplTest" time="0.261"/>
+  <testcase name="CT49()" classname="model.ServicoUsuarioImplTest" time="0.375"/>
+  <testcase name="CT50()" classname="model.ServicoUsuarioImplTest" time="0.26"/>
+  <testcase name="CT51()" classname="model.ServicoUsuarioImplTest" time="0.374"/>
+  <testcase name="CT52()" classname="model.ServicoUsuarioImplTest" time="0.378"/>
+  <testcase name="CT53()" classname="model.ServicoUsuarioImplTest" time="0.361"/>
+  <testcase name="CT54()" classname="model.ServicoUsuarioImplTest" time="0.484"/>
+  <testcase name="CT55()" classname="model.ServicoUsuarioImplTest" time="0.124"/>
+  <testcase name="CT56()" classname="model.ServicoUsuarioImplTest" time="0.267"/>
+  <testcase name="CT57()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT58()" classname="model.ServicoUsuarioImplTest" time="0.006"/>
+  <testcase name="CT59()" classname="model.ServicoUsuarioImplTest" time="0.011"/>
+  <testcase name="CT60()" classname="model.ServicoUsuarioImplTest" time="0.01"/>
+  <testcase name="CT61()" classname="model.ServicoUsuarioImplTest" time="0.052"/>
+  <testcase name="CT62()" classname="model.ServicoUsuarioImplTest" time="0.055"/>
+  <testcase name="CT63()" classname="model.ServicoUsuarioImplTest" time="0.07"/>
+  <testcase name="CT64()" classname="model.ServicoUsuarioImplTest" time="0.07"/>
+  <testcase name="CT65()" classname="model.ServicoUsuarioImplTest" time="0.179"/>
+  <testcase name="CT66()" classname="model.ServicoUsuarioImplTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

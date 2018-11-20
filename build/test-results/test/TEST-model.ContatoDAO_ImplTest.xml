@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.ContatoDAO_ImplTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-11-20T13:55:38" hostname="Julia-PC" time="0.452">
+  <properties/>
+  <testcase name="CT67()" classname="model.ContatoDAO_ImplTest" time="0.022"/>
+  <testcase name="CT68()" classname="model.ContatoDAO_ImplTest" time="0.011"/>
+  <testcase name="CT69()" classname="model.ContatoDAO_ImplTest" time="0.052"/>
+  <testcase name="CT70()" classname="model.ContatoDAO_ImplTest" time="0.085"/>
+  <testcase name="CT71()" classname="model.ContatoDAO_ImplTest" time="0.051"/>
+  <testcase name="CT72()" classname="model.ContatoDAO_ImplTest" time="0.057"/>
+  <testcase name="CT73()" classname="model.ContatoDAO_ImplTest" time="0.17"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

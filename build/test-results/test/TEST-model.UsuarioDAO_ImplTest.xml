@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.UsuarioDAO_ImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-11-20T13:55:29" hostname="Julia-PC" time="0.438">
+  <properties/>
+  <testcase name="CT01()" classname="model.UsuarioDAO_ImplTest" time="0.063"/>
+  <testcase name="CT02()" classname="model.UsuarioDAO_ImplTest" time="0.02"/>
+  <testcase name="CT03()" classname="model.UsuarioDAO_ImplTest" time="0.004"/>
+  <testcase name="CT04()" classname="model.UsuarioDAO_ImplTest" time="0.005"/>
+  <testcase name="CT05()" classname="model.UsuarioDAO_ImplTest" time="0.212"/>
+  <testcase name="CT06()" classname="model.UsuarioDAO_ImplTest" time="0.063"/>
+  <testcase name="CT07()" classname="model.UsuarioDAO_ImplTest" time="0.055"/>
+  <testcase name="CT08()" classname="model.UsuarioDAO_ImplTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

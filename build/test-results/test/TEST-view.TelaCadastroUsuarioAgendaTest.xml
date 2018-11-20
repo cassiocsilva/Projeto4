@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="view.TelaCadastroUsuarioAgendaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-11-20T13:55:45" hostname="Julia-PC" time="0.654">
+  <properties/>
+  <testcase name="CT150()" classname="view.TelaCadastroUsuarioAgendaTest" time="0.654"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

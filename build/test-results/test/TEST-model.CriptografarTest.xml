@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.CriptografarTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-11-20T13:55:44" hostname="Julia-PC" time="0.001">
+  <properties/>
+  <testcase name="CT146()" classname="model.CriptografarTest" time="0.0"/>
+  <testcase name="CT147()" classname="model.CriptografarTest" time="0.0"/>
+  <testcase name="CT148()" classname="model.CriptografarTest" time="0.0"/>
+  <testcase name="CT149()" classname="model.CriptografarTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
